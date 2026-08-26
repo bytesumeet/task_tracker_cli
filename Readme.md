@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+**Project URL:** https://github.com/bytesumeet/task-tracker-cli
+
 A lightweight, high-performance, terminal-based task management application built with Node.js and ES Modules. Effortlessly create, track, filter, and organize your daily developer tasks directly from your terminal with vibrant, color-coded output.
 
 ---
